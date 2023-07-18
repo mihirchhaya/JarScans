@@ -34,20 +34,20 @@
             <artifactId>axis</artifactId>
             <version>1.4</version>
         </dependency>
-        &lt;!&ndash; https://mvnrepository.com/artifact/commons-beanutils/commons-beanutils &ndash;&gt;
+
         <dependency>
             <groupId>commons-beanutils</groupId>
             <artifactId>commons-beanutils</artifactId>
             <version>1.7.0</version>
         </dependency>
 
-        &lt;!&ndash; https://mvnrepository.com/artifact/commons-collections/commons-collections &ndash;&gt;
+
         <dependency>
             <groupId>commons-collections</groupId>
             <artifactId>commons-collections</artifactId>
             <version>3.2.2</version>
         </dependency>
-        &lt;!&ndash; https://mvnrepository.com/artifact/commons-dbcp/commons-dbcp &ndash;&gt;
+
         <dependency>
             <groupId>commons-dbcp</groupId>
             <artifactId>commons-dbcp</artifactId>
