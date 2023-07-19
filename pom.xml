@@ -125,6 +125,13 @@
              <artifactId>wicketstuff-editable-grid</artifactId>
              <version>8.15.0</version>
          </dependency>
+          <!-- https://mvnrepository.com/artifact/org.wicketstuff/wicket15-tree -->
+         <dependency>
+             <groupId>org.wicketstuff</groupId>
+             <artifactId>wicket15-tree</artifactId>
+             <version>8.0.0</version>
+         </dependency>
+
     </dependencies>
 
 </project>
