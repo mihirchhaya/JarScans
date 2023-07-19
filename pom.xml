@@ -155,6 +155,12 @@
              <artifactId>wicket-core</artifactId>
              <version>7.6.0</version>
          </dependency>
+         <!-- https://mvnrepository.com/artifact/org.apache.wicket/wicket-bootstrap -->
+         <dependency>
+             <groupId>org.apache.wicket</groupId>
+             <artifactId>wicket-bootstrap</artifactId>
+             <version>0.17</version>
+         </dependency>
 
 
     </dependencies>
