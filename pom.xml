@@ -161,6 +161,12 @@
              <artifactId>wicket-bootstrap</artifactId>
              <version>0.17</version>
          </dependency>
+         <!-- https://mvnrepository.com/artifact/org.apache.wicket.experimental.wicket9/wicket-http2-core -->
+         <dependency>
+             <groupId>org.apache.wicket.experimental.wicket9</groupId>
+             <artifactId>wicket-http2-core</artifactId>
+             <version>0.18</version>
+         </dependency>
 
 
     </dependencies>
