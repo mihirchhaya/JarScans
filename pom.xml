@@ -161,17 +161,17 @@
              <artifactId>wicket-bootstrap</artifactId>
              <version>0.17</version>
          </dependency>
-         <!-- https://mvnrepository.com/artifact/org.apache.wicket.experimental.wicket9/wicket-http2-core -->
-         <dependency>
-             <groupId>org.apache.wicket.experimental.wicket9</groupId>
-             <artifactId>wicket-http2-core</artifactId>
-             <version>0.18</version>
-         </dependency>
          <!-- https://mvnrepository.com/artifact/org.apache.wicket/wicket-core -->
          <dependency>
              <groupId>org.apache.wicket</groupId>
              <artifactId>wicket-core</artifactId>
              <version>8.8.0</version>
+         </dependency>
+         <!-- https://mvnrepository.com/artifact/org.apache.wicket/wicket-datetime -->
+         <dependency>
+             <groupId>org.apache.wicket</groupId>
+             <artifactId>wicket-datetime</artifactId>
+             <version>8.0.0-M7</version>
          </dependency>
 
 
