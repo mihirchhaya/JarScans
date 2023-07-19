@@ -167,6 +167,12 @@
              <artifactId>wicket-http2-core</artifactId>
              <version>0.18</version>
          </dependency>
+         <!-- https://mvnrepository.com/artifact/org.apache.wicket/wicket-core -->
+         <dependency>
+             <groupId>org.apache.wicket</groupId>
+             <artifactId>wicket-core</artifactId>
+             <version>8.8.0</version>
+         </dependency>
 
 
     </dependencies>
