@@ -123,9 +123,8 @@
          <dependency>
              <groupId>org.wicketstuff</groupId>
              <artifactId>wicketstuff-editable-grid</artifactId>
-             <version>8.0.0</version>
+             <version>8.15.0</version>
          </dependency>
-
     </dependencies>
 
 </project>
