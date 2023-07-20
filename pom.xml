@@ -76,7 +76,7 @@
         <dependency>
             <groupId>com.github.ua-parser</groupId>
             <artifactId>uap-java</artifactId>
-            <version>1.5.0</version>
+            <version>1.5.4</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/com.google.zxing/javase -->
         <dependency>
