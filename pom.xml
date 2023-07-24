@@ -162,13 +162,6 @@
             <artifactId>openjson</artifactId>
             <version>1.0.10</version>
         </dependency>
-         <!-- https://mvnrepository.com/artifact/com.github.openjson/openjson -->
-         <dependency>
-             <groupId>com.github.openjson</groupId>
-             <artifactId>openjson</artifactId>
-             <version>1.0.13</version>
-         </dependency>
-             
         <!-- https://mvnrepository.com/artifact/org.eclipse.jdt/org.eclipse.jdt.core -->
         <dependency>
             <groupId>org.eclipse.jdt</groupId>
