@@ -308,17 +308,17 @@
             <version>8.0.0</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.wicketstuff.wiquery/wiquery-core -->
-        <dependency>
+        <!-- <dependency>
             <groupId>org.wicketstuff.wiquery</groupId>
             <artifactId>wiquery-core</artifactId>
             <version>8.0</version>
-        </dependency>
+        </dependency> -->
         <!-- https://mvnrepository.com/artifact/org.wicketstuff.wiquery/wiquery-jquery-ui -->
-        <dependency>
+        <!-- <dependency>
             <groupId>org.wicketstuff.wiquery</groupId>
             <artifactId>wiquery-jquery-ui</artifactId>
-            <version>8.0</version>
-        </dependency>
+            <version>8.0</version> 
+        </dependency> -->
         <!-- https://mvnrepository.com/artifact/wsdl4j/wsdl4j -->
         <dependency>
             <groupId>wsdl4j</groupId>
