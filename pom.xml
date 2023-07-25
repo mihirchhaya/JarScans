@@ -367,6 +367,18 @@
              <artifactId>httpmime</artifactId>
              <version>4.3.5</version>
          </dependency>
+<!-- https://mvnrepository.com/artifact/net.sf.jasperreports/jasperreports -->
+<dependency>
+    <groupId>net.sf.jasperreports</groupId>
+    <artifactId>jasperreports</artifactId>
+    <version>6.3.1</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/com.itextpdf/itextpdf -->
+<dependency>
+    <groupId>com.itextpdf</groupId>
+    <artifactId>itextpdf</artifactId>
+    <version>5.5.0</version>
+</dependency>
 
     </dependencies>
 </project>
