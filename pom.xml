@@ -39,6 +39,12 @@
              <artifactId>wicket15-tree</artifactId>
              <version>8.0.0</version>
          </dependency>
+         <!-- https://mvnrepository.com/artifact/com.google.javascript/closure-compiler -->
+         <dependency>
+             <groupId>com.google.javascript</groupId>
+             <artifactId>closure-compiler</artifactId>
+             <version>v20181125</version>
+         </dependency>
              
     </dependencies>
 </project>
