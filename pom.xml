@@ -34,11 +34,11 @@
             <scope>provided</scope>
         </dependency>
          <!-- https://mvnrepository.com/artifact/org.wicketstuff/wicket15-tree -->
-         <dependency>
+        <!-- <dependency>
              <groupId>org.wicketstuff</groupId>
              <artifactId>wicket15-tree</artifactId>
              <version>8.0.0</version>
-         </dependency>
+         </dependency> -->
          <!-- https://mvnrepository.com/artifact/com.google.javascript/closure-compiler -->
          <dependency>
              <groupId>com.google.javascript</groupId>
