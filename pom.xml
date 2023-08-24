@@ -46,10 +46,16 @@
              <version>v20181125</version>
          </dependency> -->
          <!-- https://mvnrepository.com/artifact/com.google.javascript/closure-compiler -->
-         <dependency>
+         <1-- <dependency>
              <groupId>com.google.javascript</groupId>
              <artifactId>closure-compiler</artifactId>
              <version>v20200927</version>
+         </dependency> -->
+         <!-- https://mvnrepository.com/artifact/org.apache.wicket/wicket-datetime -->
+         <dependency>
+             <groupId>org.apache.wicket</groupId>
+             <artifactId>wicket-datetime</artifactId>
+             <version>8.0.0-M7</version>
          </dependency>
 
     </dependencies>
