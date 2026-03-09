@@ -108,6 +108,115 @@
     <version>1.0.13</version>
     <scope>compile</scope>
 </dependency>
+
+             <!-- Source: https://mvnrepository.com/artifact/org.webjars.npm/popperjs__core -->
+<dependency>
+    <groupId>org.webjars.npm</groupId>
+    <artifactId>popperjs__core</artifactId>
+    <version>2.11.8</version>
+    <scope>compile</scope>
+</dependency>
+             <!-- Source: https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
+<dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>slf4j-api</artifactId>
+    <version>2.0.17</version>
+    <scope>compile</scope>
+</dependency>
+
+             <!-- Source: https://mvnrepository.com/artifact/org.slf4j/slf4j-simple -->
+<dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>slf4j-simple</artifactId>
+    <version>2.0.17</version>
+    <scope>test</scope>
+</dependency>
+
+             <!-- Source: https://mvnrepository.com/artifact/de.matrixweb.smaller/osgi -->
+             <!-- This is associated with vfs-support-0.3.3.jar -->
+<dependency>
+    <groupId>de.matrixweb.smaller</groupId>
+    <artifactId>osgi</artifactId>
+    <version>0.8.4</version>
+    <scope>compile</scope>
+</dependency>
+
+<dependency>
+    <groupId>org.wicketstuff</groupId>
+    <artifactId>wicket15-tree</artifactId>
+    <version>9.0.0</version>
+</dependency>
+
+             <!-- Source: https://mvnrepository.com/artifact/de.agilecoders.wicket/wicket-bootstrap-core -->
+<dependency>
+    <groupId>de.agilecoders.wicket</groupId>
+    <artifactId>wicket-bootstrap-core</artifactId>
+    <version>7.0.14</version>
+    <scope>compile</scope>
+</dependency>
+             <!-- Source: https://mvnrepository.com/artifact/de.agilecoders.wicket/wicket-bootstrap-extensions -->
+<dependency>
+    <groupId>de.agilecoders.wicket</groupId>
+    <artifactId>wicket-bootstrap-extensions</artifactId>
+    <version>7.0.14</version>
+    <scope>compile</scope>
+</dependency>
+             <!-- Source: https://mvnrepository.com/artifact/de.agilecoders.wicket/wicket-bootstrap-sass -->
+<dependency>
+    <groupId>de.agilecoders.wicket</groupId>
+    <artifactId>wicket-bootstrap-sass</artifactId>
+    <version>7.0.14</version>
+    <scope>compile</scope>
+</dependency>
+             <!-- Source: https://mvnrepository.com/artifact/de.agilecoders.wicket/wicket-bootstrap-themes -->
+<dependency>
+    <groupId>de.agilecoders.wicket</groupId>
+    <artifactId>wicket-bootstrap-themes</artifactId>
+    <version>7.0.14</version>
+    <scope>compile</scope>
+</dependency>
+             <!-- Source: https://mvnrepository.com/artifact/org.apache.wicket/wicket-cdi -->
+<dependency>
+    <groupId>org.apache.wicket</groupId>
+    <artifactId>wicket-cdi</artifactId>
+    <version>10.8.0</version>
+    <scope>compile</scope>
+</dependency>
+             <!-- Source: https://mvnrepository.com/artifact/org.apache.wicket/wicket-core -->
+<dependency>
+    <groupId>org.apache.wicket</groupId>
+    <artifactId>wicket-core</artifactId>
+    <version>10.8.0</version>
+    <scope>compile</scope>
+</dependency>
+             
+<dependency>
+    <groupId>org.apache.wicket</groupId>
+    <artifactId>wicket-extensions</artifactId>
+    <version>10.8.0</version>
+</dependency>
+
+<dependency>
+    <groupId>org.wicketstuff</groupId>
+    <artifactId>wicketstuff-core</artifactId>
+    <version>10.8.0</version>
+</dependency>
+
+             <!-- Source: https://mvnrepository.com/artifact/org.apache.wicket/wicket-extensions -->
+<dependency>
+    <groupId>org.apache.wicket</groupId>
+    <artifactId>wicket-extensions</artifactId>
+    <version>10.8.0</version>
+    <scope>compile</scope>
+</dependency>
+
+<dependency>
+    <groupId>org.apache.wicket</groupId>
+    <artifactId>wicket-guice</artifactId>
+    <version>10.8.0</version>
+</dependency>
+             
+             
              
     </dependencies>
 </project>
