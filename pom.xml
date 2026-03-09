@@ -216,6 +216,73 @@
     <version>10.8.0</version>
 </dependency>
              
+<dependency>
+    <groupId>org.apache.wicket</groupId>
+    <artifactId>wicket-parent</artifactId>
+    <version>10.8.0</version>
+</dependency>        
+
+<dependency>
+    <groupId>org.apache.wicket</groupId>
+    <artifactId>wicket-parent</artifactId>
+    <version>10.8.0</version>
+</dependency>
+
+<dependency>
+    <groupId>com.googlecode.wicket-jquery-ui</groupId>
+    <artifactId>wicket-jquery-ui</artifactId>
+    <version>10.0.0-M1</version>
+</dependency>
+
+<dependency>
+    <groupId>com.googlecode.wicket-jquery-ui</groupId>
+    <artifactId>wicket-jquery-ui-core</artifactId>
+    <version>10.0.0-M1</version>
+</dependency>
+
+<dependency>
+    <groupId>org.apache.wicket</groupId>
+    <artifactId>wicket-objectsizeof-agent</artifactId>
+    <version>10.8.0</version>
+</dependency>
+
+<dependency>
+    <groupId>org.apache.wicket</groupId>
+    <artifactId>wicket-request</artifactId>
+    <version>10.8.0</version>
+</dependency>
+
+<!-- Source: https://mvnrepository.com/artifact/org.apache.wicket/wicket-util -->
+<dependency>
+    <groupId>org.apache.wicket</groupId>
+    <artifactId>wicket-util</artifactId>
+    <version>10.8.0</version>
+</dependency>
+             <!-- Source: https://mvnrepository.com/artifact/de.agilecoders.wicket.webjars/wicket-webjars -->
+<dependency>
+    <groupId>de.agilecoders.wicket.webjars</groupId>
+    <artifactId>wicket-webjars</artifactId>
+    <version>4.0.14</version>
+    <scope>compile</scope>
+</dependency>
+
+<dependency>
+    <groupId>org.wicketstuff</groupId>
+    <artifactId>wicketstuff-core</artifactId>
+    <version>10.8.0</version>
+</dependency>
+
+<dependency>
+    <groupId>org.wicketstuff.wiquery</groupId>
+    <artifactId>wiquery-jquery-ui</artifactId>
+    <version>10.0.0</version>
+</dependency>
+
+             <dependency>
+    <groupId>org.wicketstuff.wiquery</groupId>
+    <artifactId>wiquery-jquery-ui</artifactId>
+    <version>10.0.0</version>
+</dependency>
              
              
     </dependencies>
