@@ -134,12 +134,12 @@
 
              <!-- Source: https://mvnrepository.com/artifact/de.matrixweb.smaller/osgi -->
              <!-- This is associated with vfs-support-0.3.3.jar -->
-<dependency>
+<!--<dependency>
     <groupId>de.matrixweb.smaller</groupId>
     <artifactId>osgi</artifactId>
     <version>0.8.4</version>
     <scope>compile</scope>
-</dependency>
+</dependency>-->
 
 <dependency>
     <groupId>org.wicketstuff</groupId>
