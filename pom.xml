@@ -14,79 +14,100 @@
     </properties>
     <dependencies>  
          
-         <!-- Mybatis 1.1.2 -->
+
+         <!-- Source: https://mvnrepository.com/artifact/org.webjars/bootstrap -->
          <dependency>
-            <groupId>org.mybatis</groupId>
-            <artifactId>mybatis</artifactId>
-            <version>3.5.9</version>
-            <scope>provided</scope>
-        </dependency>
-        <dependency>
-            <groupId>jakarta.annotation</groupId>
-            <artifactId>jakarta.annotation-api</artifactId>
-            <version>1.3.5</version>
-            <scope>provided</scope>
-        </dependency>
-        <dependency>
-            <groupId>jakarta.transaction</groupId>
-            <artifactId>jakarta.transaction-api</artifactId>
-            <version>1.3.3</version>
-            <scope>provided</scope>
-        </dependency>
-         <!-- https://mvnrepository.com/artifact/org.wicketstuff/wicket15-tree -->
-        <!-- <dependency>
-             <groupId>org.wicketstuff</groupId>
-             <artifactId>wicket15-tree</artifactId>
-             <version>8.0.0</version>
-         </dependency> -->
-         <!-- https://mvnrepository.com/artifact/com.google.javascript/closure-compiler -->
-         <!-- <dependency>
-             <groupId>com.google.javascript</groupId>
-             <artifactId>closure-compiler</artifactId>
-             <version>v20181125</version>
-         </dependency> -->
-         <!-- https://mvnrepository.com/artifact/com.google.javascript/closure-compiler -->
-         <1-- <dependency>
-             <groupId>com.google.javascript</groupId>
-             <artifactId>closure-compiler</artifactId>
-             <version>v20200927</version>
-         </dependency> -->
-         <!-- https://mvnrepository.com/artifact/org.apache.wicket/wicket-datetime -->
-         <dependency>
-             <groupId>org.apache.wicket</groupId>
-             <artifactId>wicket-datetime</artifactId>
-             <version>8.0.0-M7</version>
-         </dependency>
-         <!-- https://mvnrepository.com/artifact/com.mchange/c3p0 -->
-         <dependency>
-             <groupId>com.mchange</groupId>
-             <artifactId>c3p0</artifactId>
-             <version>0.9.5.4</version>
-         </dependency>
-         <!-- https://mvnrepository.com/artifact/commons-net/commons-net -->
-         <dependency>
-             <groupId>commons-net</groupId>
-             <artifactId>commons-net</artifactId>
-             <version>3.9.0</version>
-         </dependency>
-         <!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
-         <dependency>
-             <groupId>com.google.guava</groupId>
-             <artifactId>guava</artifactId>
-             <version>32.1.2-jre</version>
-         </dependency>
-         <!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
-         <dependency>
-             <groupId>com.google.code.gson</groupId>
-             <artifactId>gson</artifactId>
-             <version>2.3.1</version>
-         </dependency>
-         <!-- https://mvnrepository.com/artifact/org.apache.shiro/shiro-core -->
-         <dependency>
-             <groupId>org.apache.shiro</groupId>
-             <artifactId>shiro-core</artifactId>
-             <version>1.12.0</version>
+             <groupId>org.webjars</groupId>
+             <artifactId>bootstrap</artifactId>
+             <version>5.3.8</version>
+             <scope>compile</scope>
          </dependency>
 
+             <!-- Source: https://mvnrepository.com/artifact/com.mchange/c3p0 -->
+<dependency>
+    <groupId>com.mchange</groupId>
+    <artifactId>c3p0</artifactId>
+    <version>0.9.5.4</version>
+    <scope>compile</scope>
+</dependency>
+
+             <!-- Source: https://mvnrepository.com/artifact/org.apache.commons/commons-dbcp2 -->
+<dependency>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-dbcp2</artifactId>
+    <version>2.14.0</version>
+    <scope>compile</scope>
+</dependency>
+
+             <!-- Source: https://mvnrepository.com/artifact/org.apache.commons/commons-email2-core -->
+<dependency>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-email2-core</artifactId>
+    <version>2.0.0-M1</version>
+    <scope>compile</scope>
+</dependency>
+             <!-- Source: https://mvnrepository.com/artifact/org.apache.commons/commons-email2-jakarta -->
+<dependency>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-email2-jakarta</artifactId>
+    <version>2.0.0-M1</version>
+    <scope>compile</scope>
+</dependency>
+
+             <!-- Source: https://mvnrepository.com/artifact/org.apache.commons/commons-email -->
+<dependency>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-email</artifactId>
+    <version>1.6.0</version>
+    <scope>compile</scope>
+</dependency>
+
+             <!-- Source: https://mvnrepository.com/artifact/org.webjars/font-awesome -->
+<dependency>
+    <groupId>org.webjars</groupId>
+    <artifactId>font-awesome</artifactId>
+    <version>7.0.1</version>
+    <scope>compile</scope>
+</dependency>
+
+             <!-- Source: https://mvnrepository.com/artifact/org.danekja/jdk-serializable-functional -->
+<dependency>
+    <groupId>org.danekja</groupId>
+    <artifactId>jdk-serializable-functional</artifactId>
+    <version>1.9.0</version>
+    <scope>compile</scope>
+</dependency>
+             
+<!-- Source: https://mvnrepository.com/artifact/joda-time/joda-time -->
+<dependency>
+    <groupId>joda-time</groupId>
+    <artifactId>joda-time</artifactId>
+    <version>2.9.3</version>
+    <scope>compile</scope>
+</dependency>
+             
+<!-- Source: https://mvnrepository.com/artifact/org.webjars/jquery.inputmask -->
+<dependency>
+    <groupId>org.webjars</groupId>
+    <artifactId>jquery.inputmask</artifactId>
+    <version>5.0.9</version>
+    <scope>compile</scope>
+</dependency>
+             
+<!-- Example Maven Dependency -->
+<dependency>
+    <groupId>org.wicketstuff</groupId>
+    <artifactId>wicketstuff-jquery-selectors</artifactId>
+    <version>4.0.14</version>
+</dependency>
+             
+<!-- Source: https://mvnrepository.com/artifact/com.github.openjson/openjson -->
+<dependency>
+    <groupId>com.github.openjson</groupId>
+    <artifactId>openjson</artifactId>
+    <version>1.0.13</version>
+    <scope>compile</scope>
+</dependency>
+             
     </dependencies>
 </project>
